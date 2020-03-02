@@ -29,5 +29,6 @@ body {
     padding: 3rem;
     @include respond(tab-port) { //width < 900px
         padding: 0;
+        background-color: $color-grey-light-1;
     }
 }
