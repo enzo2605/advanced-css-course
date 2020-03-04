@@ -16,7 +16,7 @@
     "concat": "^1.0.3",
     "jquery": "^3.4.1",
     "node-sass": "^4.13.1",
-    "post-cli": "^1.0.5"
+    "postcss-cli": "^7.1.0"
   },
   "dependencies": {
     "live-server": "^1.2.1"
